@@ -1,17 +1,12 @@
 # site settings
-title: Massively
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title: Portafolio Audiovisual
+subtitle: Emanuel Reyes
+email: office.earc@gmail.com
+description: El portafolio audiovisual de Emanuel Reyes
+baseurl: "EmanuelReyesC.github.io" # the subpath of your site, e.g. /blog
+url: "EmanuelReyesC.github.io" # the base hostname & protocol for your site
+author: Emanuel Reyes
+phone: +569 30327002
 
 # social settings
 500px_url:
