@@ -3,8 +3,8 @@ title: Portafolio Audiovisual
 subtitle: Emanuel Reyes
 email: office.earc@gmail.com
 description: El portafolio audiovisual de Emanuel Reyes
-baseurl: "EmanuelReyesC.github.io" # the subpath of your site, e.g. /blog
-url: "EmanuelReyesC.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://emanuelreyesc.github.io/" # the base hostname & protocol for your site
 author: Emanuel Reyes
 phone: +569 30327002
 
