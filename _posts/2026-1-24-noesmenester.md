@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Magna
-description: Lorem etiam nullam
+title: No Es Menester
+description: Cortometraje Stop Motion
 image: assets/images/pic03.jpg
 ---
 
