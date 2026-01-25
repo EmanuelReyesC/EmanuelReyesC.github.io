@@ -1,33 +1,51 @@
 ---
 layout: post
 title: Soy el Catimba
-description: Proyecto de título
+description: Un viaje de introspección y exploración técnica
 image: assets/images/sec/claudio.png
 ---
 
-Durante el año 2022 estaba terminando mi carrera en cine y artes audiovisuales, durante este año debíamos presentar el proyecto de título para terminar la carrera
-ese año me propuse que debía dirigir un proyecto por lo que pensé que debía participar haciendo el proyecto con el que me titularía, en esa época estaba viviendo
-muy latentemente un asunto familiar que me preocupaba muchísimo, la forma de enfrentarme a el fue hacer una revisión de mi infancia a través de la memoria, por lo
-que decidí que el proyecto de título sería un espacio de introspección, Soy el catimba es un intento de comprensión hacia la vida y las decisiones de mi padre y como eso me afectaba 
-en ese momento de mi vida.
+> **Proyecto de Título** | Dirección, Guion y Animación | 2022  
+> **Técnica:** Mixtura de Live-action, Rotoscopía y Entornos 3D.
 
-Preparé un pitch y me puse manos a la obra con pruebas técnicas, inspirado a través del trabajo de Alexander Petrov, aunque su animación 
-es totalmente análoga y hecha a mano cuadro a cuadro con pinturas al óleo yo quería lograr una imagen similar a través de lo que tengo a disposición, por lo que pensé 
-en una mixtura de técnicas de animación, rodaje live action para los personajes, dibujar sobre ellos y hacer la ambientación en espacios 3d que reconstruirían los espacios que habité de niño
-mis primeras pruebas me llevaron a a estos resultados.
+---
+
+## La Visión: Entre lo analógico y lo digital
+
+**Soy el catimba** nació en 2022 como mi proyecto de finalización de carrera. Más que un cortometraje, representó una necesidad íntima de volcar la memoria y la introspección en una pieza narrativa; un intento de comprender la figura paterna y resignificar mi propia infancia a través de un lenguaje visual híbrido.
+
+Desde la génesis del proyecto, mi objetivo fue desafiar los límites convencionales. Inspirado por la estética pictórica de **Alexander Petrov**, pero trabajando con las herramientas a mi alcance, propuse una **mixtura técnica experimental**: rodaje *live-action* con actores reales, sobre los cuales se aplicaría rotoscopía (dibujo cuadro a cuadro), integrándolos en espacios 3D que reconstruyeran los escenarios de mi niñez.
 
 <span class="image fit"><img src="{{ site.baseurl }}/assets/images/prueba_animacion.gif" alt="Primera prueba de animación" /></span>
+---
 
-cuando mostré estos resultados, indagué en el contexto de mi proyecto y un posible guion, el proyecto ya estaba en marcha, recuerdo el proceso de selección de pitch
-fue duro por un lado, exponer parte de mi historia a personas que no me conocen es complejo si aún están las heridas abiertas, por otro lado sentía que había cierta
-importancia de realizar el proyecto ya que era una experiencia común en muchas infancias de diferentes personas, una forma de enfrentarse a uno mismo y a sus creencias para buscar crecimiento
-a través del arte, mi proyecto fue seleccionado junto con el de mi compañera y amiga Miriam Naranjo, ella dirigió el otro proyecto de título.
+## El desafío de la dirección y el liderazgo
 
-El proceso de realización de este proyecto fue complicado, hubieron muchas incertidumbres del proyecto al ser tan experimental en su realización, por lo que hubo una falla
-tanto en la comunicación como en la lógica de creación del set de grabación, fallos de comunicación en todas las áreas porque se daban por sentado o se especulaban muchas cosas
-sobre decisiones artísticas del proyecto, tanto como lo que se vería en rodaje, como lo que se grabó, lo que debía hacer el departamento de arte o como se trabajaría en el proceso de 
-postproducción, como mi metodología la había desarrollado yo, para mi era facil de entender pero dificil de explicar a todos para que tuviéramos claridad sobre lo que debíamos hacer cada uno.
+Asumir la dirección de un proyecto de esta envergadura me puso a prueba en dimensiones que trascendieron lo artístico. Al ser una metodología que yo mismo había desarrollado, mi mayor aprendizaje fue la **comunicación de la complejidad**:
 
+* **Claridad técnica:** Tuve que aprender a guiar a cada departamento para que comprendieran cómo su pieza (el set, la luz o el modelado) encajaría en un rompecabezas de postproducción que aún estábamos inventando.
+* **Gestión de la incertidumbre:** Mantener el rumbo a pesar de las inseguridades propias de un proceso experimental y de factores externos, como tiempos acotados y contingencias universitarias.
+* **Resiliencia:** Descubrí mis propias facultades y falencias al liderar equipos, comprendiendo que la dirección no es solo técnica, sino la capacidad de sostener la visión y la motivación del grupo bajo presión.
+
+---
+
+## Un paréntesis necesario: Lecciones de viabilidad
+
+A pesar del éxito del rodaje —donde logramos obtener un material visual que superó mis expectativas en solo dos días de trabajo—, la etapa de postproducción reveló una realidad ineludible. El compromiso técnico de la rotoscopía y la integración 3D demandaba una cantidad de tiempo, equipo humano y recursos materiales con los que, en ese momento, no contábamos de manera sostenible.
+
+Tras agotar las instancias de gestión y enfrentarme a la dispersión natural del equipo de trabajo, tomé la difícil decisión de **detener el proyecto**. Fue un proceso de maduración profesional donde tuve que despedirme momentáneamente de esta historia para proteger la salud del proceso creativo y aceptar las limitaciones del contexto real.
+
+---
+
+## El futuro de "Soy el catimba"
+
+Este proyecto no ha terminado; ha entrado en una fase de hibernación. El material obtenido en rodaje es valioso y la visión artística sigue intacta. He guardado cada toma, cada diseño y cada prueba técnica con la certeza de que, cuando cuente con los recursos y el equipo adecuado, este material finalmente se convertirá en el cortometraje que visualicé.
+
+**Soy el catimba** me enseñó que dirigir también es saber cuándo pausar. Hoy, este proyecto reside en mi portafolio no como un producto terminado, sino como el testimonio de mi mayor crecimiento como cineasta, explorador técnico y líder de proyectos.
+
+---
+
+### Imágenes del rodaje
 <div class="box alt">
     <div class="row uniform">
         <div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec1.jpg" alt="" /></span></div>
@@ -45,6 +63,6 @@ postproducción, como mi metodología la había desarrollado yo, para mi era fac
         <div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec13.jpg" alt="" /></span></div>
         <div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec14.jpg" alt="" /></span></div>
         <div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec15.jpg" alt="" /></span></div>
-        <div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec16.jpg" alt="" /></span></div>
+        <div class="12u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec16.jpg" alt="" /></span></div>
     </div>
 </div>
