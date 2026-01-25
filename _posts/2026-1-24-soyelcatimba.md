@@ -29,7 +29,7 @@ sobre decisiones artísticas del proyecto, tanto como lo que se vería en rodaje
 postproducción, como mi metodología la había desarrollado yo, para mi era facil de entender pero dificil de explicar a todos para que tuviéramos claridad sobre lo que debíamos hacer cada uno.
 
 <div class="box alt">
-    <div class="row 50% uniform">
+    <div class="row 80% uniform">
         <div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec1.jpg" alt="" /></span></div>
         <div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec2.jpg" alt="" /></span></div>
         <div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec3.jpg" alt="" /></span></div>
