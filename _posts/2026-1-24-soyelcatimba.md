@@ -29,22 +29,22 @@ sobre decisiones artísticas del proyecto, tanto como lo que se vería en rodaje
 postproducción, como mi metodología la había desarrollado yo, para mi era facil de entender pero dificil de explicar a todos para que tuviéramos claridad sobre lo que debíamos hacer cada uno.
 
 <div class="box alt">
-    <div class="row 80% uniform">
-        <div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec1.jpg" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec2.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec3.jpg" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec4.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec5.jpg" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec6.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec7.jpg" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec8.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec9.jpg" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec10.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec11.jpg" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec12.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec13.jpg" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec14.jpg" alt="" /></span></div>
-        <div class="4u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec15.jpg" alt="" /></span></div>
-        <div class="4u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec16.jpg" alt="" /></span></div>
+    <div class="row uniform">
+        <div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec1.jpg" alt="" /></span></div>
+        <div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec2.jpg" alt="" /></span></div>
+        <div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec3.jpg" alt="" /></span></div>
+        <div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec4.jpg" alt="" /></span></div>
+        <div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec5.jpg" alt="" /></span></div>
+        <div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec6.jpg" alt="" /></span></div>
+        <div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec7.jpg" alt="" /></span></div>
+        <div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec8.jpg" alt="" /></span></div>
+        <div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec9.jpg" alt="" /></span></div>
+        <div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec10.jpg" alt="" /></span></div>
+        <div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec11.jpg" alt="" /></span></div>
+        <div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec12.jpg" alt="" /></span></div>
+        <div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec13.jpg" alt="" /></span></div>
+        <div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec14.jpg" alt="" /></span></div>
+        <div class="6u"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec15.jpg" alt="" /></span></div>
+        <div class="6u$"><span class="image fit"><img src="{{ site.baseurl }}/assets/images/sec/rsec16.jpg" alt="" /></span></div>
     </div>
 </div>
