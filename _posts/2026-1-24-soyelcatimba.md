@@ -5,8 +5,6 @@ description: Un viaje de introspección y exploración técnica
 image: assets/images/sec/claudio.png
 ---
 
-## La Visión: Entre lo analógico y lo digital
-
 **Soy el catimba** nació en 2022 como mi proyecto de finalización de carrera. Más que un cortometraje, representó una necesidad íntima de volcar la memoria y la introspección en una pieza narrativa; un intento de comprender la figura paterna y resignificar mi propia infancia a través de un lenguaje visual híbrido.
 
 Desde la génesis del proyecto, mi objetivo fue desafiar los límites convencionales. Inspirado por la estética pictórica de **Alexander Petrov**, pero trabajando con las herramientas a mi alcance, propuse una **mixtura técnica experimental**: rodaje *live-action* con actores reales, sobre los cuales se aplicaría rotoscopía (dibujo cuadro a cuadro), integrándolos en espacios 3D que reconstruyeran los escenarios de mi niñez.
@@ -26,7 +24,7 @@ Asumir la dirección de un proyecto de esta envergadura me puso a prueba en dime
 
 ## Un paréntesis necesario: Lecciones de viabilidad
 
-A pesar del éxito del rodaje —donde logramos obtener un material visual que superó mis expectativas en solo dos días de trabajo—, la etapa de postproducción reveló una realidad ineludible. El compromiso técnico de la rotoscopía y la integración 3D demandaba una cantidad de tiempo, equipo humano y recursos materiales con los que, en ese momento, no contábamos de manera sostenible.
+A pesar del éxito del rodaje —donde logramos obtener un material visual que superó mis expectativas en solo dos días de trabajo—, la etapa de postproducción reveló una realidad. El compromiso técnico de la rotoscopía y la integración 3D demandaba una cantidad de tiempo, equipo humano y recursos materiales con los que, en ese momento, no contábamos de manera sostenible.
 
 Tras agotar las instancias de gestión y enfrentarme a la dispersión natural del equipo de trabajo, tomé la difícil decisión de **detener el proyecto**. Fue un proceso de maduración profesional donde tuve que despedirme momentáneamente de esta historia para proteger la salud del proceso creativo y aceptar las limitaciones del contexto real.
 
