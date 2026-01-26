@@ -1,57 +1,51 @@
 <!DOCTYPE HTML>
-<!--
-	   Massively by HTML5 UP
-	   html5up.net | @ajlkn
-	   Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-   -->
 <html>
 
     {% include head.html %}
 
-	  <body class="is-loading">
+    <body class="is-loading">
 
-		    <!-- Wrapper -->
-			  <div id="wrapper">
+        <div id="wrapper">
 
             {% include header.html %}
             {% include menu.html %}
 
-				    <!-- Post -->
-				    <section class="post">
-						    <header class="major">
-								    <span class="date">
-												    {% assign m = post.date | date: "%-m" %}
-												    {{ post.date | date: "%-d" }} de
-												    {% case m %}
-												      {% when '1' %}enero
-												      {% when '2' %}febrero
-												      {% when '3' %}marzo
-												      {% when '4' %}abril
-												      {% when '5' %}mayo
-												      {% when '6' %}junio
-												      {% when '7' %}julio
-												      {% when '8' %}agosto
-												      {% when '9' %}septiembre
-												      {% when '10' %}octubre
-												      {% when '11' %}noviembre
-												      {% when '12' %}diciembre
-												    {% endcase %}
-												    de {{ post.date | date: "%Y" }}
-									</span>
-								    {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
-								    {% if page.description %}<p>{{ page.description }}</p>{% endif %}
-						    </header>
+            <section class="post">
+                <header class="major">
+                    <span class="date">
+                        {% assign m = page.date | date: "%-m" %}
+                        {{ page.date | date: "%-d" }} de
+                        {% case m %}
+                            {% when '1' %}enero
+                            {% when '2' %}febrero
+                            {% when '3' %}marzo
+                            {% when '4' %}abril
+                            {% when '5' %}mayo
+                            {% when '6' %}junio
+                            {% when '7' %}julio
+                            {% when '8' %}agosto
+                            {% when '9' %}septiembre
+                            {% when '10' %}octubre
+                            {% when '11' %}noviembre
+                            {% when '12' %}diciembre
+                        {% endcase %}
+                        de {{ page.date | date: "%Y" }}
+                    </span>
+                    
+                    {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+                    {% if page.description %}<p>{{ page.description }}</p>{% endif %}
+                </header>
 
                 {% if page.image %}
-                <div class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></div>
+                    <div class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></div>
                 {% endif %}
 
                 {{ content }}
 
-				    </section>
+            </section>
 
             {% include footer.html %}
 
-    </body>
 
+    </body>
 </html>
