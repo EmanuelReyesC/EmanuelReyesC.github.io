@@ -5,9 +5,6 @@ description: Un viaje de introspección y exploración técnica
 image: assets/images/sec/claudio.png
 ---
 
-> **Proyecto de Título** | Dirección, Guion y Animación | 2022  
-> **Técnica:** Mixtura de Live-action, Rotoscopía y Entornos 3D.
-
 ## La Visión: Entre lo analógico y lo digital
 
 **Soy el catimba** nació en 2022 como mi proyecto de finalización de carrera. Más que un cortometraje, representó una necesidad íntima de volcar la memoria y la introspección en una pieza narrativa; un intento de comprender la figura paterna y resignificar mi propia infancia a través de un lenguaje visual híbrido.
