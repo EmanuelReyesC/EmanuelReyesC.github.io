@@ -39,7 +39,7 @@ Este proyecto no ha terminado; ha entrado en una fase de hibernación. El materi
 ---
 
 ### Imágenes del rodaje
-<div class="box alt">
+<div class="box alt gallery">
     <div class="row uniform">
         <div class="6u"><span class="image fit"><a href="{{ site.baseurl }}/assets/images/sec/rsec1.jpg"><img src="{{ site.baseurl }}/assets/images/sec/rsec1.jpg" alt="" /></a></span></div>
         <div class="6u$"><span class="image fit"><a href="{{ site.baseurl }}/assets/images/sec/rsec2.jpg"><img src="{{ site.baseurl }}/assets/images/sec/rsec2.jpg" alt="" /></a></span></div>
