@@ -3,113 +3,79 @@
 
     {% include head.html %}
 
-	  <body class="is-loading">
+      <body class="is-loading">
 
-        <!-- Wrapper -->
         <div id="wrapper" class="fade-in">
 
             {% include intro.html %}
             {% include header.html %}
             {% include menu.html %}
 
-				    <!-- Featured Post -->
-						<article class="post featured">
-							<header class="major">
-								<span class="date">19 de Enero, 2026</span>
-								<h2><a href="#">Te invito a <br />
-								conocerme</a></h2>
-								<p>Mi nombre es Emanuel Reyes<br />
-								estudié cine y artes audiovisuales<br />
-								en la Universidad Academia De Humanismo Cristiano.</p>
-							</header>
-							
-							<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-								<iframe src="https://player.vimeo.com/video/944659623" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
-							</div>
+                    <article class="post featured">
+                            <header class="major">
+                                <span class="date">28 de enero, 2026</span>
+                                <h2><a href="#">Cine, tecnología y <br />
+                                trabajo en equipo</a></h2>
+                                <p>Soy Emanuel Reyes, Realizador en Cine y Artes Audiovisuales. <br /> 
+                                Mi trabajo se define por la curiosidad técnica y la convicción de que la comunicación asertiva <br /> 
+                                es el motor que hace que cualquier proyecto audiovisual llegue a puerto.</p>
+                            </header>
+                            
+                            <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 2rem;">
+                                <iframe src="https://player.vimeo.com/video/944659623" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+                            </div>
 
-							<ul class="actions">
-								<li><a href="#" class="button big">Ver más</a></li>
-							</ul>
-						</article>
+                            <p style="text-align: center;">Desde mi experiencia liderando equipos en entornos de alto tráfico hasta mi labor técnica en eventos de gran envergadura, busco siempre soluciones creativas y flujos de trabajo eficientes. Te invito a conocer mi trayectoria y mi visión del cine híbrido.</p>
+							
+							<p style="text-align: center;">A continuación podrás encontrar algunos de los proyectos en los que he participado, junto a ellos podrás encontrar material visual o reflexiones sobre mi experiencia.</p>
+
+                            <ul class="actions">
+                                <li><a href="#posts-anchor" class="button big">Ver proyectos</a></li>
+                            </ul>
+                        </article>
 
             {% if site.posts != null %}
 
-				    <!-- Posts -->
-				    <section class="posts">
-	              {% for post in site.posts %}
-						    <article>
-								    <header>
-										    <span class="date">
-												    {% assign m = post.date | date: "%-m" %}
-												    {{ post.date | date: "%-d" }} de
-												    {% case m %}
-												      {% when '1' %}enero
-												      {% when '2' %}febrero
-												      {% when '3' %}marzo
-												      {% when '4' %}abril
-												      {% when '5' %}mayo
-												      {% when '6' %}junio
-												      {% when '7' %}julio
-												      {% when '8' %}agosto
-												      {% when '9' %}septiembre
-												      {% when '10' %}octubre
-												      {% when '11' %}noviembre
-												      {% when '12' %}diciembre
-												    {% endcase %}
-												    de {{ post.date | date: "%Y" }}
-												</span>
-										<h2><a href="{{ post.url  | relative_url }}">{{ post.title }}</a></h2>
-								</header>
-								<a href="{{ post.url  | relative_url }}" class="image fit"><img src="{{ post.image }}" alt="" /></a>
-								<p>{{ post.excerpt }}</p>
-								<ul class="actions">
-										<li><a href="{{ post.url  | relative_url }}" class="button">Ver más</a></li>
-								</ul>
-						</article>
-	          {% endfor %}
-				</section>
+                    <section class="posts" id="posts-anchor">
+                  {% for post in site.posts %}
+                            <article>
+                                    <header>
+                                            <span class="date">
+                                                    {% assign m = post.date | date: "%-m" %}
+                                                    {{ post.date | date: "%-d" }} de
+                                                    {% case m %}
+                                                      {% when '1' %}enero
+                                                      {% when '2' %}febrero
+                                                      {% when '3' %}marzo
+                                                      {% when '4' %}abril
+                                                      {% when '5' %}mayo
+                                                      {% when '6' %}junio
+                                                      {% when '7' %}julio
+                                                      {% when '8' %}agosto
+                                                      {% when '9' %}septiembre
+                                                      {% when '10' %}octubre
+                                                      {% when '11' %}noviembre
+                                                      {% when '12' %}diciembre
+                                                    {% endcase %}
+                                                    de {{ post.date | date: "%Y" }}
+                                                </span>
+                                        <h2><a href="{{ post.url  | relative_url }}">{{ post.title }}</a></h2>
+                                </header>
+                                <a href="{{ post.url  | relative_url }}" class="image fit"><img src="{{ post.image }}" alt="" /></a>
+                                <p>{{ post.excerpt }}</p>
+                                <ul class="actions">
+                                        <li><a href="{{ post.url  | relative_url }}" class="button">Ver más</a></li>
+                                </ul>
+                        </article>
+              {% endfor %}
+                </section>
 
-
-        <!-- Footer -->
         <footer>
-		        <div class="pagination">
-				        <!--<a href="#" class="previous">Prev</a>-->
-				        <a href="#" class="page active">1</a>
-				        <a href="#" class="page">2</a>
-				        <a href="#" class="page">3</a>
-				        <span class="extra">&hellip;</span>
-				        <a href="#" class="page">8</a>
-				        <a href="#" class="page">9</a>
-				        <a href="#" class="page">10</a>
-				        <a href="#" class="next">Next</a>
-		        </div>
-
-            <!-- This loops through the paginated posts -->
-            <!-- {% for post in paginator.posts %}
-                 <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-                 <p class="author">
-                 <span class="date">{{ post.date }}</span>
-                 </p>
-                 <div class="content">
-                 {{ post.content }}
-                 </div>
-                 {% endfor %} -->
-
-            <!-- Pagination links -->
-            <!-- <div class="pagination">
-                 {% if paginator.previous_page %}
-                 <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-                 {% else %}
-                 <span class="previous">Previous</span>
-                 {% endif %}
-                 <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-                 {% if paginator.next_page %}
-                 <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-                 {% else %}
-                 <span class="next ">Next</span>
-                 {% endif %}
-                 </div>
-               -->
+                <div class="pagination">
+                        <a href="#" class="page active">1</a>
+                        <span class="extra">&hellip;</span>
+                        <a href="#" class="next">Siguiente</a>
+                </div>
         </footer>
 
 {% endif %}
