@@ -2,7 +2,7 @@
 layout: post
 title: No Es Menester
 description: Cortometraje Stop Motion
-image: assets/images/pic03.jpg
+image: assets/images/nem/nem.jpg
 ---
 
 Este proyecto se desarrolló durante 2020, en un momento marcado por la incertidumbre de la pandemia. Originalmente era un trabajo grupal para el **Taller de Creación en Ficción**, pero debido al contexto sanitario, el equipo se disolvió y me vi en la necesidad de terminarlo de manera independiente y remota. Decidí enfocar la historia en dos temas que me atravesaban en ese momento: **el hogar y el valor del dinero**.
@@ -10,9 +10,9 @@ Este proyecto se desarrolló durante 2020, en un momento marcado por la incertid
 ---
 
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe src="https://youtu.be/G2QuFHtv2DI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-    frameborder="0" allowfullscreen></iframe>
+    <iframe width="1393" height="784" src="https://www.youtube.com/embed/G2QuFHtv2DI" title="No es Menester" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
 
 ---
 
@@ -21,7 +21,7 @@ El proceso fue artesanal de principio a fin. Tras definir la escaleta y el story
 
 La protagonista, una alcancía que encontré en una de esas salidas, fue el punto de partida; su expresión dictó gran parte del tono narrativo. Acompañé la escenografía con miniaturas, macetas y marcos que permitieron construir un ambiente íntimo y simbólico dentro de la maqueta.
 
-<span class="image fit"><img src="{{ site.baseurl }}/assets/images/maquetanem.jpg" alt="Maqueta No Es Menester" /></span>
+<span class="image fit"><img src="{{ site.baseurl }}/assets/images/nem/maquetanem.jpg" alt="Maqueta No Es Menester" /></span>
 ---
 
 ## Desafíos Técnicos: El Living como Set
