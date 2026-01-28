@@ -9,7 +9,7 @@ Este proyecto se desarrolló durante 2020, en un momento marcado por la incertid
 
 ---
 
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 2em;">
     <iframe width="1393" height="784" src="https://www.youtube.com/embed/G2QuFHtv2DI" title="No es Menester" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
